@@ -1,2 +1,2 @@
-# talks
-slides and scripts from my talks
+# slides and scripts from my talks
+
